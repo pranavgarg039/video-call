@@ -1,5 +1,5 @@
 # This is a video calling and group chat application built using React and Azure Communication Services for Microsoft Engage 2021. 
-<h3>Video Call Features:<h3>
+<h3>Video Call Features:</h3>
   <ul>
   <li>Up-to 50 members can video call</li>
   <li>Share Screen</li>
