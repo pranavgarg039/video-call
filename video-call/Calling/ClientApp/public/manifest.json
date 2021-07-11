@@ -1,0 +1,8 @@
+{
+  "name": "Engage Teams clone",
+  "short_name": "Engageteamsclone",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
